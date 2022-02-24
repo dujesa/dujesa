@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**dujesa/dujesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Duje, software engineer and volunteer @DUMP.
 
-Here are some ideas to get you started:
+I love .NET and learning new complex stuff. 
+Currently in process of learning React and Next.js... 
+I enjoy to read other people's code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+#### Find me on:
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/duje-%C5%A1ari%C4%87-a21216155/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;">
+  </a>
+  <a href="https://stackoverflow.com/users/16802410/duje-%c5%a0ari%c4%87" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack overflow" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/dujesaric996" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="max-width: 100%;">
+  </a>
+</p>
