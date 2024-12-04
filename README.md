@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am Duje, software engineer and volunteer @DUMP.
-
-I love .NET and learning new complex stuff.<br />
-Currently in process of learning React and Next.js...<br />
-I enjoy to read other people's code.
+I am Duje, software engineer @solbound.dev
 
 #### How to reach me:
 <p dir="auto">
